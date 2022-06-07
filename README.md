@@ -1,4 +1,4 @@
-# js-tdd-coding-tests-template
+# jest-coding-tests-template
 
 Hi 👋 Are you going to use jest while solving coding test questions?
 
