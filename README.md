@@ -11,3 +11,9 @@ Simply press the "Use this template" button to use it.
 If there is any problem, please let me know through Issue.
 
 Thank you.
+
+
+## Installation
+
+`npm ci` or `npm install`
+
